@@ -20,6 +20,3 @@ A web application that allows users to:
 ## Dependencies
 - [html2canvas](https://html2canvas.hertzen.com) (MIT License)
 - [jsPDF](https://parall.ax/products/jspdf) (MIT License)
-
-## License
-MIT License - see [LICENSE](LICENSE) file
